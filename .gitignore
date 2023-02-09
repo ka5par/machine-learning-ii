@@ -26,3 +26,6 @@ practise-sessions/**/*_a.ipynb
 practise-sessions/01/tutorials/*.hdf5
 practise-sessions/01/tutorials/*.csv
 practise-sessions/01/tutorials/*.pdf
+
+my_homeworks
+.conda
